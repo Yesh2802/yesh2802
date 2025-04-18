@@ -46,3 +46,5 @@
 
 
 <table> <tr> <td> <img src="https://github-readme-stats.vercel.app/api?username=yesh2802&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" /> </td> <td> <img src="https://streak-stats.demolab.com?user=yesh2802&theme=radical&hide_border=false" alt="GitHub Streak" /> </td> </tr> </table> <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yesh2802&layout=compact&theme=radical&hide_border=false" alt="Top Languages" /> </div>
+
+[![Yesh's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yesh2802&theme=react-dark&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
