@@ -44,13 +44,5 @@
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat-square&logo=jira&logoColor=white) 
 ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=flat-square&logo=splunk&logoColor=white)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=yesh2802&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=yesh2802&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yesh2802&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<table> <tr> <td> <img src="https://github-readme-stats.vercel.app/api?username=yesh2802&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" /> </td> <td> <img src="https://streak-stats.demolab.com?user=yesh2802&theme=radical&hide_border=false" alt="GitHub Streak" /> </td> </tr> </table> <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yesh2802&layout=compact&theme=radical&hide_border=false" alt="Top Languages" /> </div>
